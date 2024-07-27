@@ -1,6 +1,5 @@
 <h1>Sobre</h1>
 
-<h2>Sou estudante de programação e esse é o primeiro site que criei.</h2>
-<h2>Meu intuito com ele é apenas praticar!!</h2>
-<p>fiuraefrq</p>
+<p>Sou estudante de programação e esse é o primeiro site que criei.</p>
+<p>Meu intuito com ele é apenas praticar!!</p>
 
