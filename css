@@ -1,22 +1,19 @@
-body {
-  background: url(https://wallpapers.com/images/hd/soup-1542-x-1029-background-hivu9m6oiq5v7z8n.jpg); 
-  background-repeat: no-repeat;
-  
-  font-family: "Inter", sans-serif;
-}
+html {
+    background: url(https://wallpapers.com/images/hd/soup-1542-x-1029-background-hivu9m6oiq5v7z8n.jpg); 
+    background-size: 100%;
+  }
 
-h1 {
-  color: aliceblue;
-}
- 
-p {
-  color: aliceblue;
-}
+  h1{
+    font-family: "Inter", sans-serif;
+    color: rgb(95, 51, 1);
+  }
 
-h2 {
-  color: aliceblue;
-}
+  h2{
+    font-family: "Inter", sans-serif;
+    color: #b68d5b;
+  }
 
-ol {
-color: aliceblue;
-}
+  p{
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+  }
